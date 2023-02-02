@@ -6,6 +6,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 xmlns:xhtml="http://www.w3.org/1999/xhtml"
 xmlns:image="https://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>http://localhost:4000/kukaserver.html</loc>
+    <image:image>
+      <image:loc>http://localhost:4000/assets/img/posts/kukarsi.jpg</image:loc>
+      <image:title>UDP Server for KUKA RSI - Python Server with GUI for Axis Jogging from Master Computer | ROS Connectivity to KUKA Robot via Robot Sensor Interface</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>http://localhost:4000/mr-green-jekyll-theme.html</loc>
     <image:image>
       <image:loc>http://localhost:4000/assets/img/posts/mock1.jpg</image:loc>

@@ -1,5 +1,17 @@
 [
     {
+    "title"     : "UDP Server for KUKA RSI - Python Server with GUI for Axis Jogging from Master Computer | ROS Connectivity to KUKA Robot via Robot Sensor Interface"
+    ,"title_sub": "KUKA Robot controller has inbuilt Ethernet port called KLI (KUKA LINE INTERFACE, Static IP) which is used for UDP/TCP IP connections from external system. Real..."
+    ,"category" : "jekyll"
+    ,"tags"     : "robotics, industrial automation, example post"
+    ,"url"      : "/kukaserver.html"
+    ,"image"    : "/assets/img/posts/kukarsi.jpg"
+    ,"max_width": ""
+    ,"display"  : ""
+    ,"read_time": "21 min read"
+    ,"date"     : "Feb 2, 2023"
+    ,"year"     : "2023"
+    },{
     "title"     : "Mr. Green Jekyll Theme"
     ,"title_sub": "Mr. Green is a multilingual theme generated with Jekyll and fully compatible with GitHub Pages."
     ,"category" : "jekyll"
