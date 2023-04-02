@@ -1,2 +1,2 @@
-cd E:\PawankumarG.com\dev\Green_PawankumarG\
+cd F:\PawankumarG.com\dev\Green_PawankumarG\
 bundle exec jekyll serve

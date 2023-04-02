@@ -1,17 +1,17 @@
 echo "Starting"
 
-Remove-Item "E:\PawankumarG.com\dev\Github\*" -exclude "E:\PawankumarG.com\dev\Github\.git"
+Remove-Item "F:\PawankumarG.com\dev\Github\*" -exclude "F:\PawankumarG.com\dev\Github\.git"
 echo "1 moment.."
 sleep(2)
 echo "removed"
-Copy-Item -Recurse "E:\PawankumarG.com\dev\Green_PawankumarG\_site\*" "E:\PawankumarG.com\dev\Github\"
+Copy-Item -Recurse "F:\PawankumarG.com\dev\Green_PawankumarG\_site\*" "F:\PawankumarG.com\dev\Github\"
 echo "copied"
 
 echo "starting Git operations.."
 
-cd E:
+cd F:
 
-cd E:\PawankumarG.com\dev\Github\
+cd F:\PawankumarG.com\dev\Github\
 
 git add * --force
 
